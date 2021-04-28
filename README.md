@@ -13,7 +13,7 @@ For more detail about this dataset visit [this Github repository](https://github
 * Mathplotlib
 
 ## Usage
-Clone this repository and open notebook with cammand:
+Clone this repository and open notebook with this cammand:
 
 ```
 juputer notebook CNN-Fashion_MNIST.ipynb
