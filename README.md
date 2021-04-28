@@ -5,6 +5,7 @@ In this notebook, I implement Convolutional Neural Networks (CNNs) in Python wit
 For more detail about this dataset visit [this Github repository](https://github.com/zalandoresearch/fashion-mnist).
 
 ## Requirement
+* Jupyter Notebook
 * Keras (pip install keras)
 * Tensorflow (pip install tensorflow)
 * Numpy (pip install numpy)
