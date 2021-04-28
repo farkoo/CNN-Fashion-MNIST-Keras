@@ -1,1 +1,1 @@
-# Classification Fashion MNIST data set using Convolutional Neural Network
+# Fashion MNIST dataset Classification using Convolutional Neural Network
