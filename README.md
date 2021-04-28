@@ -1,4 +1,4 @@
-# Fashion MNIST dataset Classification using Convolutional Neural Network
+# Fashion MNIST dataset Classification using Convolutional Neural Networks
 
 In this notebook, I implement Convolutional Neural Networks (CNNs) in Python with Keras and overcome overfitting with dropout for Fashion_MNIST dataset.
 
