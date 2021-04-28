@@ -4,6 +4,19 @@ In this notebook, I implement Convolutional Neural Networks (CNNs) in Python wit
 
 For more detail about this dataset visit [this Github repository](https://github.com/zalandoresearch/fashion-mnist).
 
+## Requirement
+* Keras (pip install keras)
+* Tensorflow (pip install tensorflow)
+* Numpy (pip install numpy)
+* Sklearn (pip install sklearn)
+* Mathplotlib
+
+## Usage
+Clone this repository and open notebook with cammand:
+
+```
+juputer notebook CNN-Fashion_MNIST.ipynb
+```
 
 
 ## Support
