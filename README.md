@@ -32,6 +32,7 @@ Telegram id:
 
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
+<!--
 ## License
 [MIT](https://github.com/farkoo/CNN-Fashion_MNIST/blob/master/LICENSE)
 &#0169; 
